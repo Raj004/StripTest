@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Stripe-Testing</string>
+  <string name="stripe_key" >pk_test_5MnVWKWLRaNT9KsN7plhWf48</string>
+</resources>
